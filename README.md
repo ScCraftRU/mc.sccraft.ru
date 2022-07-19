@@ -1,2 +1,2 @@
 # mc.sccraft.ru
-mc.sccraft.ru website
+Данный сайт оставлен для демонстрации некоторых HTML файлов. Например в [`./upsp`](./upsp)
